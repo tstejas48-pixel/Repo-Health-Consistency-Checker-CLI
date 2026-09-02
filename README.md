@@ -312,3 +312,5 @@ For questions or feedback, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for healthier codebases**
+#   R e p o - H e a l t h - C o n s i s t e n c y - C h e c k e r - C L I  
+ 
